@@ -1,0 +1,26 @@
+{
+  "api_keys": {
+    "numverify": "",
+    "ipinfo": "",
+    "shodan": "",
+    "haveibeenpwned": ""
+  },
+  "settings": {
+    "default_region": "US",
+    "check_deliverability": false,
+    "output_format": "text",
+    "timeout": 10,
+    "max_results": 50
+  },
+  "user": {
+    "name": "Anonymous",
+    "organization": "",
+    "notes": "DevilWare OSINT Tool Configuration"
+  },
+  "advanced": {
+    "enable_logging": false,
+    "log_file": "devilware.log",
+    "debug_mode": false,
+    "custom_user_agent": "DevilWare-OSINT-Tool/1.0"
+  }
+}
